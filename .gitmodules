@@ -1,0 +1,3 @@
+[submodule "citylots"]
+	path = citylots
+	url = https://github.com/zemirco/sf-city-lots-json
